@@ -319,19 +319,6 @@ a {
   padding-bottom: 24px;
 }
 
-.w-l-home-google-button-image {
-  width: 222px;
-  height: 71px;
-  transition: transform 0.3s ease-in-out;
-}
-.w-l-home-google-button-link {
-  margin: auto;
-}
-.w-l-home-google-button-link:hover .w-l-home-google-button-image {
-  content: url("/img/home/11.png");
-  transform: scale(1.1);
-}
-
 @media screen and (min-width: 1210px) {
   .w-l-home {
     width: 1440px;
@@ -369,10 +356,6 @@ a {
     letter-spacing: 0%;
 
     padding-bottom: 24px;
-  }
-
-  .w-l-home-google-button-link {
-    margin: 0;
   }
 }
 .w-l-about {
